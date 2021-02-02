@@ -1,4 +1,4 @@
-body{background-colo:pink;}p{color:
+body{background-color:pink;}p{color:
 
 green; font-family:Arial;}
 h1{color:
@@ -8,3 +8,8 @@ blue;font-family:Garamond;}
 ul{list-style-type:lower-roman; color:yellow; font-
   family:"Iskoola Pota";
 }
+
+body {border-style: solid;}
+hr {color: blue;}
+
+table {background-color:pink; font-family:Arial; color:green;}
